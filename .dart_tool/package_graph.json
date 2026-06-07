@@ -1,0 +1,21 @@
+{
+  "roots": [
+    "prm393_dart_demo"
+  ],
+  "packages": [
+    {
+      "name": "prm393_dart_demo",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": [
+        "lints"
+      ]
+    },
+    {
+      "name": "lints",
+      "version": "6.1.0",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}

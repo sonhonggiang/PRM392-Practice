@@ -1,0 +1,23 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "lints",
+      "rootUri": "file:///C:/Users/Acer/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "prm393_dart_demo",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    }
+  ],
+  "generated": "2026-05-18T02:46:57.871254Z",
+  "generator": "pub",
+  "generatorVersion": "3.7.0",
+  "flutterRoot": "file:///D:/PRM393_Hoc%20lieu/filetaixuong/flutter",
+  "flutterVersion": "3.29.0",
+  "pubCache": "file:///C:/Users/Acer/AppData/Local/Pub/Cache"
+}

@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:convert';
 
-// ==========================================
+
 // Exercise 1: Product Model & Repository
-// ==========================================
+
 class Product {
   final int id;
   final String name;
